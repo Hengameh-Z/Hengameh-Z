@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hengameh-Z 👀
+- 👋 Hi, I’m Hengameh Zakeri ✨
 
 <!---
 Hengameh-Z/Hengameh-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
